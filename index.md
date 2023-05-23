@@ -10,3 +10,10 @@ class Node:
     self.next = next
 ```
 
+## Task List
+- [x] Add an image
+- [x] Add a code snippet
+- [ ] Create a task list
+- [ ] Create a table
+- [ ] Use custom links
+
